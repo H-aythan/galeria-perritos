@@ -1,0 +1,91 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+src/ApiDog/app.css
+src/ApiDog/Inicio.js
+src/ApiDog/components/Card.js
+src/ApiDog/components/Error.js
+src/ApiDog/components/Select.js
+src/ApiDog/components/Apis/getDog.js
+src/ApiDog/components/Apis/getRaza.js
+src/ApiDog/components/componentes/Frase.js
+src/ApiDog/components/componentes/Spiner.css
+src/ApiDog/components/componentes/Spiner.js
+src/Proveedor de internet/AppRouter.js
+src/Proveedor de internet/Proveedor de  inernet.js
+src/Proveedor de internet/Footer/Footer.js
+src/Proveedor de internet/Header/Header.js
+src/Proveedor de internet/Header/Navegacion.js
+src/Proveedor de internet/Modal/ModalContact.js
+src/Proveedor de internet/Paginas/Inicio.js
+src/Proveedor de internet/Paginas/Planes.js
+src/practicas/tienda de camisas/TiendaCamisas.js
+src/practicas/tienda de camisas/Header/AppRouter.js
+src/practicas/tienda de camisas/Header/Heder.js
+src/practicas/tienda de camisas/Header/Navegacion.js
+src/practicas/tienda de camisas/Paginas/Contacto.js
+src/practicas/tienda de camisas/Paginas/Error.js
+src/practicas/tienda de camisas/Paginas/Inicio.js
+src/practicas/tienda de camisas/Paginas/Nosotros.js
+src/practicas/tienda de camisas/Paginas/SinglePage.js
+src/practicas/tienda de camisas/Paginas/components Inicio/Buscador.js
+src/practicas/tienda de camisas/Paginas/components Inicio/producto.js
+src/practicas/tienda de camisas/Paginas/context/ProductosContext.js
+src/practicas/tienda de camisas/datos/datos.json
+src/practicas/styled Component/styled.js
+src/practicas/router/AppRouter.js
+src/practicas/router/components/Inicio.js
+src/practicas/router/components/Navegation.js
+src/practicas/router/components/OtraPage.js
+src/practicas/router/components/OtraPage2.js
+src/practicas/practica useContext/MyComponents.js
+src/practicas/practica useContext/store/StoreProvider.js
+src/practicas/practica useContext/store/StoreReducer.js
+src/practicas/practica customhooks/CounterApp.js
+src/practicas/practica customhooks/MouseApp.js
+src/practicas/practica customhooks/TodoApp.js
+src/practicas/practica customhooks/hooks/useCounter.js
+src/practicas/practica customhooks/hooks/useMousePosition.js
+src/practicas/practica customhooks/hooks/useTodo.js
+src/practicas/practica con tailwind/Tailwind.js
+src/practicas/practica con tailwind/Tailwind2.js
+src/practicas/practica con tailwind/tailwind3.js
+src/practicas/practica con tailwind/tailwind4.js
+src/practicas/portafolio/AppRouter.js
+src/practicas/portafolio/Menu.js
+src/practicas/portafolio/Portafolio.js
+src/practicas/portafolio/paginas/img.css
+src/practicas/portafolio/paginas/Inicio.js
+src/practicas/portafolio/paginas/Proyectos.js
+src/practicas/ejemplos/CounterApp.js
+src/practicas/ejemplos/ProductApp.js
+src/practicas/ejemplos/TodoApp.js
+src/practicas/ejemplos/types.js
+src/practicas/ejemplos/reducers/producReducer.js
+src/practicas/components/index.js
+src/practicas/components/Movie.js
+src/practicas/components/MovieList.js
+src/practicas/components/NavBar.js
+src/practicas/components/const/InitialMovies.js
+src/practicas/components/contex/MoviesProvider.js
+

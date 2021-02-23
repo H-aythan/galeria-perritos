@@ -1,0 +1,2 @@
+[1229/174504.301:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0205/143546.507:ERROR:file_io.cc(135)] WriteFile: Se está cerrando la canalización. (0xE8)
