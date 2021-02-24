@@ -14,7 +14,7 @@ const Modal = ({modal,setModal,img}) =>{
                     X
                 </button>
                
-                <img className="sm:w-full sm:h-full" src={img}/>               
+                <img className="sm:w-full sm:h-full" src={img} alt="perro.jpg"/>               
             </div>
         </div>
     )

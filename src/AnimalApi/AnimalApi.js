@@ -4,7 +4,7 @@ import Inicio from './paginas/Inicio'
 const AnimalApi = () => {
     const inicioPage=useRef();
     const [menu,setMenu]=useState(true);
-    const [size,setSize]=useState(0);
+    const [size,setSize]=useState(window.innerWidth);
 
     useEffect(()=>{
         window.addEventListener("resize",()=>{
